@@ -1,0 +1,12 @@
+/.idea
+/.vscode
+/vendor/srmklive/paypal/tests/Mocks/samples/sample2.pdf
+/vendor/srmklive/paypal/tests/Mocks/samples/sample.pdf
+stotage/debugbar/*
+stotage/framework/cache/data/*
+stotage/sessions/*
+stotage/views/*
+.env
+storage/installed
+storage/debugbar/*
+storage/uploads/
